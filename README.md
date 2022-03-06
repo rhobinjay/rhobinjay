@@ -18,7 +18,7 @@ I have been experimenting new things I learned from the courses then utilizing t
 At the same time, it helped me passed certification exams.
 
 ****
-##### Reach me 📫 
+#### Reach me 📫 
 If you can relate to me, then I am very interested to connect with you and have a fun meaningful conversation! ✨
 <br />
 Get in touch with me through the following: 
