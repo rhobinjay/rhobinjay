@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/Rhobinjay" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://www.linkedin.com/in/rhobnjay" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/rhobinjay" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 ## Hi 👋 I'm Rhobin! 
 I am a DevOps engineer at [Dyson](https://www.dyson.com/en) that brings software automated solutions to the business.
